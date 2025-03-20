@@ -1,0 +1,15 @@
+
+
+.img-thumbnail{
+    width: 200px;
+    
+}
+
+.alinhar{
+    display: flex;
+    flex-direction: row;
+}
+
+.text-break{
+    margin: 50px 120px 50px 60px;
+}
